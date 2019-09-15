@@ -1,0 +1,30 @@
+.\" HMEC.man
+
+
+.TH man 1 "1. April 2016" "1.0" "HMEC Man Page"
+
+
+.SH NAME
+HMEC
+
+.SH SYNOPSIS
+.B HMEC-Test
+
+.SH DESCRIPTION
+Hexagonal Motion Estimation and Compensation
+
+.SH EXAMPLE
+ ./HMEC-Test
+
+.SH SEE ALSO
+.B CHIP(1), dcrawHMod(1), Hex-Muxer(1), Hex-Player(1), Nexys-Video-HDMIHMod(1), x264HMod(1)
+
+.SH BUGS
+-
+
+.SH AUTHOR
+Tobias Schlosser (tobias.schlosser@informatik.tu-chemnitz.de)
+
+.SH COPYING
+Siehe Datei "COPYING"
+
